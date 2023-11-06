@@ -1,8 +1,8 @@
  <h1 align="center">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>,  I'm Ishita Adhikari</h1>
-<h3 align="center"> Exploring between full stack and data science.</h3>
+<h3 align="center"> Exploring between Full Stack and Data Science.</h3>
 
+<img align = "right" alt = coding man width = "400px" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47w4068jfccv93s60s5d2kp5ogqd4n0pnbnpbp3f8m&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IshitaAdhikari&label=Profile%20views&color=0e75b6&style=flat" alt="IshitaAdhikari" /> </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me:
  <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently learning data science with development<br><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate in Data Science project<br>💬</g-emoji> Ask me about  Data Science and Algorithm <br><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Reach me at <a href="mailto:adhikariishita50@gmail.com">adhikariishita50@gmail.com</a></p>
